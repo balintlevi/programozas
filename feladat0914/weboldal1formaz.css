@@ -1,0 +1,26 @@
+.szines
+{
+    color: red;
+}
+
+body
+{
+    background-color: #ccff33;
+    
+}
+
+*
+{
+    font-family: Arial;
+}
+
+h1
+{
+    text-align: center;
+}
+
+img
+{
+    display: block;
+    margin: auto;
+}
